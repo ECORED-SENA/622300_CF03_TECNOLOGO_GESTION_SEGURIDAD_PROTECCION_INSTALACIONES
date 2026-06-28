@@ -219,14 +219,249 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Analítica de datos',
+      significado:
+        'Proceso de recopilación y análisis de información para apoyar la toma de decisiones.',
+    },
+    {
+      termino: 'Biometría',
+      significado:
+        'Tecnología que permite identificar personas mediante características físicas o conductuales.',
+    },
+    {
+      termino: 'Blockchain',
+      significado:
+        'Tecnología de registro distribuido que garantiza la integridad y trazabilidad de la información.',
+    },
+    {
+      termino: 'CCTV',
+      significado:
+        'Sistema de circuito cerrado de televisión utilizado para vigilancia y monitoreo.',
+    },
+    {
+      termino: 'Ciberseguridad',
+      significado:
+        'Conjunto de medidas destinadas a proteger sistemas, redes y datos digitales.',
+    },
+    {
+      termino: 'Conectividad IP',
+      significado:
+        'Capacidad de comunicación entre dispositivos mediante protocolos de internet.',
+    },
+    {
+      termino: 'DVR',
+      significado:
+        'Grabador digital utilizado para almacenar imágenes provenientes de cámaras analógicas.',
+    },
+    {
+      termino: 'Inteligencia artificial',
+      significado:
+        'Tecnología que permite a los sistemas realizar tareas que requieren capacidades cognitivas humanas.',
+    },
+    {
+      termino: 'Internet de las Cosas (IoT)',
+      significado:
+        'Red de dispositivos interconectados capaces de intercambiar información.',
+    },
+    {
+      termino: 'NVR',
+      significado: 'Grabador de video en red utilizado con cámaras IP.',
+    },
+    {
+      termino: 'Plan de seguridad',
+      significado:
+        'Documento que establece estrategias, procedimientos y recursos para gestionar riesgos.',
+    },
+    {
+      termino: 'Reconocimiento facial',
+      significado:
+        'Sistema biométrico que identifica personas mediante rasgos faciales.',
+    },
+    {
+      termino: 'Resolución',
+      significado:
+        'Nivel de detalle que puede capturar una cámara de videovigilancia.',
+    },
+    {
+      termino: 'Videovigilancia',
+      significado:
+        'Proceso de observación y registro de imágenes para fines de seguridad.',
+    },
+    {
+      termino: 'Vulnerabilidad',
+      significado:
+        'Debilidad que puede ser aprovechada por una amenaza para generar un riesgo.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Argüello, A. (2024). Sistemas DVR: Componentes y funcionamiento en videovigilancia. Manual Técnico de Sistemas de Seguridad Digital.',
+      link: 'https://www.infoteknico.com/que-es-un-dvr-y-como-funciona/',
+    },
+    {
+      referencia:
+        'Avigilon Corporation. (s.f.). Criterios técnicos y estratégicos para la selección de cámaras CCTV.',
+      link: 'https://www.avigilon.com/es/blog/types-of-cctv-cameras',
+    },
+    {
+      referencia: 'Avigilon Corporation. (s.f.). Types of CCTV cameras.',
+      link: 'https://www.avigilon.com/es/blog/types-of-cctv-cameras',
+    },
+    {
+      referencia:
+        'Axis Communications. (2022). Network video products: Technical specifications and installation guidelines.',
       link: '',
+    },
+    {
+      referencia:
+        'Boeckl, K., Fagan, M., Fisher, W., Lefkovitz, N., Megas, K. N., Nadeau, E., O’Rourke, D. G., Piccarreta, B., & Scarfone, K. (2019). Considerations for managing Internet of Things (IoT) cybersecurity and privacy risks (NISTIR 8228). National Institute of Standards and Technology.',
+      link: 'https://doi.org/10.6028/NIST.IR.8228',
+    },
+    {
+      referencia:
+        'Bosch Security Systems. (2023). IP video: Concepts and applications white paper.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cifuentes Olarte, A., Ceballos, C. A., & Cifuentes Giraldo, O. L. (2021). Sistema de gestión de la seguridad y salud en el trabajo: Lineamentos jurídicos y técnicos para el diseño e implementación del SGSST con los estándares (2.ª ed.). Ediciones de la U.',
+      link: '',
+    },
+    {
+      referencia:
+        'Data Técnica Especializada. (s.f.). Componentes y sistemas CCTV: Manual técnico integral.',
+      link: '',
+    },
+    {
+      referencia:
+        'Domótica y Eléctricos S.A. (s.f.). CCTV cámaras de seguridad: Guía técnica y aplicaciones.',
+      link: 'https://www.domoticayelectricos.com',
+    },
+    {
+      referencia:
+        'García Carreño, D., Navarro Ardila, K., & Parra Osorio, L. (2020). Desarrollo de los sistemas de gestión de seguridad y salud en el trabajo en Colombia a partir del Decreto 1072: Una revisión sistemática. Via Inveniendi Et Iudicandi, 15(2), 37-57.',
+      link: 'https://doi.org/10.15332/19090528/6242',
+    },
+    {
+      referencia:
+        'García, F. J. (2010). Videovigilancia: CCTV usando vídeos IP.',
+      link: '',
+    },
+    {
+      referencia:
+        'García Mata, F. J. (2010). Sistemas de videovigilancia: Componentes, aplicaciones y tecnologías emergentes. En Manual técnico de videovigilancia profesional (pp. 45-128).',
+      link: '',
+    },
+    {
+      referencia:
+        'Goyes Moreno, I., & Hidalgo Oviedo, M. (2012). Los principios del derecho laboral y la seguridad social dinamizan la jurisprudencia constitucional en Colombia. Entramado, 8(2), 168–183.',
+      link: 'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1900-38032012000200012&lng=en',
+    },
+    {
+      referencia:
+        'Institute of Electrical and Electronics Engineers. (2018). IEEE 802.11 - Wireless LAN medium access control and physical layer specifications.',
+      link: '',
+    },
+    {
+      referencia:
+        'International Association for Healthcare Security. (2021). Healthcare security technologies: CCTV implementation guidelines. IAHSS Technical Manual Series.',
+      link: '',
+    },
+    {
+      referencia:
+        'International Organization for Standardization. (2019). ISO/IEC 62676 - Video surveillance systems for use in security applications.',
+      link: '',
+    },
+    {
+      referencia:
+        'IP VideoMarket. (2022). Global video surveillance equipment market analysis.',
+      link: 'https://www.ipvideomarket.info',
+    },
+    {
+      referencia:
+        'IFC Corporación Financiera Internacional. (2017). Empleo de fuerzas de seguridad: Evaluación y gestión de riesgos e impactos. Guía para el sector privado en mercados emergentes.',
+      link: 'https://www.ifc.org/sustainabilitypublications',
+    },
+    {
+      referencia:
+        'Lateris. (2024, 9 de octubre). La tecnología en la seguridad privada: Innovaciones y tendencias.',
+      link: 'https://lateris.com/seguridad-privada1/tecnologia-seguridad-privada-innovaciones-tendencias/',
+    },
+    {
+      referencia:
+        'Ministerio de Vivienda, Ciudad y Territorio. (2001). Ley 675 de 2001: Por medio de la cual se expide el régimen de propiedad horizontal.',
+      link: 'https://minvivienda.gov.co/sites/default/files/normativa/0675%20-%202001.pdf',
+    },
+    {
+      referencia:
+        'MXE Estrategia. (2023). Seguridad empresarial: Manual del empresario. MXE Inteligencia y Estrategia Empresarial.',
+      link: 'https://www.mxestrategia.com',
+    },
+    {
+      referencia:
+        'National Institute of Standards and Technology. (2020). NIST Special Publication 800-94 - Guide to intrusion detection and prevention systems.',
+      link: '',
+    },
+    {
+      referencia:
+        'Nova Seguridad. (s.f.). Inteligencia artificial en la seguridad privada.',
+      link: 'https://www.novaseguridad.com.co/inteligencia-artificial-seguridad-privada/',
+    },
+    {
+      referencia:
+        'Nova Seguridad. (s.f.). La tecnología de la seguridad privada en la nueva era.',
+      link: 'https://www.novaseguridad.com.co/seguridad-privada-tecnologia/',
+    },
+    {
+      referencia:
+        'Obregón Hidalgo, P. E. (2017). Seguridad y monitoreo mediante sistemas NVR: Análisis comparativo y aplicaciones industriales [Tesis de especialización, Universidad Tecnológica Nacional].',
+      link: '',
+    },
+    {
+      referencia:
+        'ONVIF Consortium. (2021). ONVIF profile specifications: Open network video interface forum standards.',
+      link: 'https://www.onvif.org/specifications/',
+    },
+    {
+      referencia:
+        'Security Industry Association. (2022). Video surveillance: Technology trends and best practices. SIA Publications.',
+      link: '',
+    },
+    {
+      referencia:
+        'SecurityInfoWatch. (2023). CCTV technology evolution and future trends.',
+      link: 'https://www.securityinfowatch.com/video-surveillance',
+    },
+    {
+      referencia:
+        'Sevilla, P. (2024, 8 de febrero). ¿Qué es un plan de seguridad integral en una empresa? Nalanda Global.',
+      link: 'https://www.nalandaglobal.com/blog/que-es-un-plan-de-seguridad-integral-en-una-empresa/',
+    },
+    {
+      referencia:
+        'Siete24. (2016, 5 de diciembre). Plan estratégico de seguridad: ¿Qué es y por qué contar con uno?',
+      link: 'https://blog.siete24.com/plan-estrategico-seguridad-que-es-por-que-contar-con-uno',
+    },
+    {
+      referencia:
+        'Superintendencia de Vigilancia y Seguridad Privada. (2010). Manual de doctrina de la SuperVigilancia (Versión 1.0).',
+      link: '',
+    },
+    {
+      referencia:
+        'Telecommunications Industry Association. (2020). TIA-568 - Commercial building telecommunications cabling standard.',
+      link: '',
+    },
+    {
+      referencia:
+        'Tumal Enríquez, A. C. (2023, 18 de octubre). Importancia de la actualización en normatividad de Seguridad y Salud en el Trabajo en Colombia. Boletín Informativo CEI. Universidad Mariana.',
+      link: 'https://revistas.umariana.edu.co/index.php/BoletinInformativoCEI/article/view/3656/3867',
+    },
+    {
+      referencia:
+        'Video Surveillance Guide. (2024). Technical specifications database for security cameras.',
+      link: 'https://www.videosurveillance-guide.com',
     },
   ],
   creditos: [
@@ -235,60 +470,107 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable ecosistema virtual de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
+          cargo: 'Responsable de Línea de Producción Huila',
           centro: 'Dirección General',
         },
       ],
     },
+
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Juan José Calderon Gutiérrez',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
+          cargo: 'Desarrollador fullstack',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
