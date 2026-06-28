@@ -23,7 +23,7 @@ export default {
       titulo: 'Cuestionario',
       introduccion:
         '<b>Objetivo:</b> Verificar la comprensión de los conceptos relacionados con las tecnologías aplicadas a la seguridad privada, los sistemas de videovigilancia y los elementos fundamentales para el diseño e implementación de planes de seguridad.',
-      barajarPreguntas: false,
+      barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
