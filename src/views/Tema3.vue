@@ -12,12 +12,12 @@
       p.mb-5 En el siguiente video conocerá la importancia del plan de seguridad como herramienta estratégica para proteger personas, bienes e información, mediante acciones organizadas que fortalecen la prevención y la respuesta ante riesgos.
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/3jJfvuti56I?si=a1MtqAzSla5kikr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Diseño y proposito del plan de seguridad
       Separador
       #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.2 Alcance, características y elementos del plan
-      p.mb-5 El plan de seguridad establece el marco de actuación para la protección de personas, bienes, información y operaciones. Su alcance, características y elementos deben responder a las necesidades específicas de la organización y a los riesgos presentes en su entorno; las cuales, son estudiadas en la presente unidad.
+      p.mb-5 El plan de seguridad establece el marco de actuación para la protección de personas, bienes, información y operaciones. Su alcance, características y elementos deben responder a las necesidades específicas de la organización y a los riesgos presentes en su entorno, los cuales; son estudiados en la presente unidad.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t2/img34.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Alcance del plan
@@ -470,7 +470,7 @@
       Separador
       #t_3_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.7 Evaluación y mejora continua
-      p.mb-5 La evaluación y mejora continua permiten verificar la efectividad del plan de seguridad y promover acciones orientadas al fortalecimiento permanente de los procesos de protección. Las lograrlo, se aplican acciones orientadas al seguimiento, análisis y actualización permanente del plan de seguridad, entre las cuales se encuentran:
+      p.mb-5 La evaluación y mejora continua permiten verificar la efectividad del plan de seguridad y promover acciones orientadas al fortalecimiento permanente de los procesos de protección. para lograrlo, se aplican acciones orientadas al seguimiento, análisis y actualización permanente del plan de seguridad, entre las cuales se encuentran:
       .bg-carrusel
         .px-5
           .row.align-items-center.mb-0

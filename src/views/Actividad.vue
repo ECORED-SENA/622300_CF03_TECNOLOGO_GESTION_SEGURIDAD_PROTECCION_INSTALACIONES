@@ -22,7 +22,7 @@ export default {
       tema: 'Evaluación de conocimientos sobre tecnología y planes de seguridad.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Verificar la comprensión de los conceptos relacionados con las tecnologías aplicadas a la seguridad privada, los sistemas de videovigilancia y los elementos fundamentales para el diseño e implementación de planes de seguridad.',
+        '<b>Objetivo:</b> verificar la comprensión de los conceptos relacionados con las tecnologías aplicadas a la seguridad privada, los sistemas de videovigilancia y los elementos fundamentales para el diseño e implementación de planes de seguridad.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

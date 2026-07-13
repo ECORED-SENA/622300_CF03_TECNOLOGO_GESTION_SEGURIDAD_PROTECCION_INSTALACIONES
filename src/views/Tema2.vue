@@ -16,7 +16,7 @@
         .col-xl
           figure.mb-2.d-none.d-xl-block(data-aos="fade-left")
             img(src='@/assets/curso/temas/t2/img2.svg', alt='' style="width: 70px")
-          p.mb-0 Antes de abordar los componentes tecnológicos de la videovigilancia, es importante conocer algunos los siguientes aspectos normativos relacionados con su prestación y utilización:
+          p.mb-0 Antes de abordar los componentes tecnológicos de la videovigilancia, es importante conocer algunos de los siguientes aspectos normativos relacionados con su prestación y utilización:
       .bg-1
         .px-5
           .row.justify-content-center
@@ -60,7 +60,7 @@
                       img(src='@/assets/curso/temas/t2/img6.png', alt='' style="width: 300px").m-auto
                   .col-lg.fit___pasosA-left
                     h3 Equipos de grabación
-                    p.mb-0 Permiten almacenar las imágenes captadas por las cámaras para su consulta posterior. Entre los más utilizados se encuentran los DVR (Digital Video Recorder) y NVR (Network Video Recorder).
+                    p.mb-0 Permiten almacenar las imágenes captadas por las cámaras para su consulta posterior. Entre los más utilizados se encuentran los DVR (Digital Video <i>Recorder</i>) y NVR (<i>Network Video Recorder</i>).
                 .row.align-items-center
                   .col-lg.mb-4.mb-lg-0
                     h3 Monitores de visualización
@@ -154,14 +154,14 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Cámaras ANPR y LPR
-                  p.mb-0 Las cámaras ANPR (Automatic Number Plate Recognition) y LPR (License Plate Recognition) están diseñadas para capturar y reconocer matrículas de vehículos. Son utilizadas en estacionamientos, accesos vehiculares y sistemas de control de tráfico, permitiendo automatizar registros y fortalecer la gestión de seguridad (Avigilon, s.f.).
+                  p.mb-0 Las cámaras ANPR (<i>Automatic Number Plate Recognition</i>) y LPR (<i>License Plate Recognition</i>) están diseñadas para capturar y reconocer matrículas de vehículos. Son utilizadas en estacionamientos, accesos vehiculares y sistemas de control de tráfico, permitiendo automatizar registros y fortalecer la gestión de seguridad (Avigilon, s.f.).
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img19.png', alt='' style="max-width: 500px").m-auto
       Separador
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.3 Parámetros técnicos para la selección de cámaras
-      p.mb-5 La selección de una cámara de videovigilancia requiere analizar diversos parámetros técnicos relacionados con el entorno, las condiciones de operación y los objetivos de seguridad. Factores como la ubicación, la iluminación, la resolución de imagen, la cobertura y la infraestructura disponible influyen directamente en el desempeño del sistema y en la calidad de la vigilancia (Avigilon, s. f.). La elección adecuada de una cámara depende de diversos los siguientes criterios técnicos:
+      p.mb-5 La selección de una cámara de videovigilancia requiere analizar diversos parámetros técnicos relacionados con el entorno, las condiciones de operación y los objetivos de seguridad. Factores como la ubicación, la iluminación, la resolución de imagen, la cobertura y la infraestructura disponible influyen directamente en el desempeño del sistema y en la calidad de la vigilancia (Avigilon, s. f.). La elección adecuada de una cámara depende de los siguientes criterios técnicos:
       .bg-3
         .px-5
           .row.justify-content-center
@@ -184,7 +184,7 @@
                 .row.align-items-center
                   .col-lg.mb-4.mb-lg-0
                     h3 Resolución de imagen
-                    p.mb-0 La resolución determina el nivel de detalle capturado. Las cámaras HD sirven para vigilancia general, mientras que Full HD o 4K permiten identificar rostros o placas.
+                    p.mb-0 La resolución determina el nivel de detalle capturado. Las cámaras HD sirven para vigilancia general, mientras que <i>Full HD</i> o 4K permiten identificar rostros o placas.
                   .col-auto(data-aos="zoom-in")
                     figure
                       img(src='@/assets/curso/temas/t2/img22.png', alt='' style="width: 300px").m-auto
@@ -229,7 +229,7 @@
       p.mb-5 Los sistemas de grabación y almacenamiento permiten conservar, gestionar y consultar las imágenes captadas por las cámaras de videovigilancia, garantizando la disponibilidad de la información y el análisis de eventos relevantes. Las principales tecnologías son:
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t2/img34.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Digital Video Recorder (DVR)
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Digital Video <i>Recorder</i> (DVR)
       p.mb-5 El DVR es uno de los sistemas de grabación más utilizados en la videovigilancia analógica, gracias a sus capacidades de almacenamiento, administración y consulta de imágenes. A continuación, se presentan sus principales características y aplicaciones.
       .bg-carrusel.mb-5
         .px-5
@@ -276,7 +276,7 @@
                     p.mb-0.text-center Es ampliamente utilizado en viviendas, comercios, oficinas y pequeñas empresas que emplean sistemas de videovigilancia analógica.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t2/img34.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Network Video Recorder (NVR) 
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 <i>Network Video Recorder (NVR)</i>
       p.mb-5 El NVR constituye una solución de grabación diseñada para sistemas de videovigilancia IP, permitiendo gestionar video de alta calidad mediante redes de datos. A continuación, se describen sus principales características y funcionalidades.
       .bg-carrusel
         .px-5

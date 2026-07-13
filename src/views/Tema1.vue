@@ -31,7 +31,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Tecnologías que impulsan el cambio
-                  p.mb-0 La inteligencia artificial, el Internet de las Cosas, la automatización y la ciberseguridad permiten fortalecer el monitoreo, el análisis de riesgos y la respuesta ante incidentes.
+                  p.mb-0 La inteligencia artificial, el internet de las cosas, la automatización y la ciberseguridad permiten fortalecer el monitoreo, el análisis de riesgos y la respuesta ante incidentes.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img3.png', alt='' style="max-width: 500px").m-auto
@@ -328,7 +328,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Tecnologías emergentes en la gestión de riesgos
-                  p.mb-0 La combinación de inteligencia artificial, analítica de datos, IoT, #[i nblockchain] y otras tecnologías emergentes permite una gestión de riesgos más proactiva, facilitando la identificación temprana de amenazas y fortaleciendo la capacidad de respuesta de las organizaciones.
+                  p.mb-0 La combinación de inteligencia artificial, analítica de datos, IoT, #[i blockchain] y otras tecnologías emergentes permite una gestión de riesgos más proactiva, facilitando la identificación temprana de amenazas y fortaleciendo la capacidad de respuesta de las organizaciones.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img35.png', alt='' style="max-width: 500px").m-auto
@@ -356,7 +356,7 @@
 </template>
 
 <script>
-import audio1 from '@/assets/componentes/audios/audio-ej.mp3'
+import audio1 from '@/assets/curso/podcast/tecnologo.mp3'
 export default {
   name: 'Tema1',
   data: () => ({
