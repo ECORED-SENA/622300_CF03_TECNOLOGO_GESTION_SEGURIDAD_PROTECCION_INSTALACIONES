@@ -511,7 +511,7 @@ export default {
         },
         {
           nombre: 'Cielo Damaris Angulo Rodríguez',
-          cargo: 'Desarrollador fullstack',
+          cargo: 'Desarrollador <i>fullstack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

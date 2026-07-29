@@ -227,7 +227,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Tecnologías emergentes
-                  p.mb-0 Las tecnologías emergentes, como la inteligencia artificial, la analítica de datos, la realidad aumentada y blockchain, contribuyen a una gestión de seguridad más inteligente y preventiva. Estas herramientas permiten procesar información en tiempo real, identificar patrones de riesgo y fortalecer la protección de activos e infraestructura crítica (Lateris, 2024).
+                  p.mb-0 Las tecnologías emergentes, como la inteligencia artificial, la analítica de datos, la realidad aumentada y <i>blockchain</i>, contribuyen a una gestión de seguridad más inteligente y preventiva. Estas herramientas permiten procesar información en tiempo real, identificar patrones de riesgo y fortalecer la protección de activos e infraestructura crítica (Lateris, 2024).
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img23.png', alt='' style="max-width: 500px").m-auto
